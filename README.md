@@ -1,4 +1,4 @@
-- 👋 Hi, I’m amber
+- 👋 Hi, I’m AmberHan
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Jupyter notebook as a beginner
 - 💞️ I’m looking to collaborate on Python stuff ..
