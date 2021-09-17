@@ -2,7 +2,7 @@
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Jupyter notebook as a beginner
 - 💞️ I’m looking to collaborate on Python stuff ..
-- 📫 How to reach me WECHAT:VK961030
+- 📫 How to reach me:noway
 
 <!---
 amber33hj/amber33hj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
